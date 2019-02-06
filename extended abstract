@@ -1,0 +1,25 @@
+1. Title of the project
+
+Project: car race game(temporary)
+
+Objective and Requirements
+
+An object is placed at the end of the screen. bonuses and hinders comes towards the object and the player should move accordingly
+Requirements are that the object can be moved up or down, the bonuses/hinders should react to hitting the car accordingly, the things should
+approach smoothly
+
+Solution 
+
+We might use if statements depending on what should happen
+
+Verification 
+
+We will test by seeing that the requirements are met
+
+Contributions
+
+We should divide the 2 group members into different functions which we are responsible to write but we should report the things we do
+
+Reflections
+
+Will be an interesting project
