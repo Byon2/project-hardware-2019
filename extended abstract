@@ -9,14 +9,14 @@ Requirements are that the object can be moved up or down, the bonuses/hinders sh
 approach smoothly
 
 Solution 
-we are going to use the functions (funtions for graphic) from labbworks in the beganning so the objects are going to be normal fonts. 
-in th beganning it will bi some how a string "car" which sholud move a cross the y-axis to the left side of screen. 
-it sholde be controlled by pish bottons. It shuold save itself from charachter say O and try to cach character L which will give extra live.
-tje number of lives will be shown by leds.
-The game will have different levels each 15 seconds. it means that the velocity of characters O and L which are moving towards string car
+we are going to use the functions (functions for graphic) from labworks in the beganning so the objects are going to be normal fonts. 
+in the beganning it will be a string "car" which should move a cross the y-axis to the left side of screen. 
+it should be controlled by the push bottons. It should avoid itself from character O and try to catch character L which will give extra life.
+the number of lives will be shown by leds.
+The game will have different levels each 15 seconds. it means that the velocity of characters O and L which are moving towards the string "car
 will increase( decrease delay) every 15 seconds.
 when we are done with this and still have time, we are going to programme the graphics as well so that our project comes to an advance level.
-because than we should use pixel by pixel movement.
+because then we should use pixel by pixel movement.
 
 
 
@@ -24,7 +24,9 @@ We might use if statements depending on what should happen
 
 Verification 
 
-We will test by seeing that the requirements are met
+We will extensively test by seeing that each of the requirements are met. We will start by testing if the player can move up or down,
+then we will test having objects approach the car and finally we will see what happens when the objects hit the car so we cam verify
+it reacts accordingly
 
 Contributions
 
@@ -32,4 +34,6 @@ We should divide the 2 group members into different functions which we are respo
 
 Reflections
 
-Will be an interesting project
+We want to start by making sure that it meets the requirements for BASIC then we want to add/modify code so that it can become advanced. 
+For example by having 2 players competing at the same time, having a menu, having a scoring system
+and have it track high score, having different hinders, bonuses  or other things if it is necessary to make it become ADVANCED. 
