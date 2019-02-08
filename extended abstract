@@ -9,6 +9,16 @@ Requirements are that the object can be moved up or down, the bonuses/hinders sh
 approach smoothly
 
 Solution 
+we are going to use the functions (funtions for graphic) from labbworks in the beganning so the objects are going to be normal fonts. 
+in th beganning it will bi some how a string "car" which sholud move a cross the y-axis to the left side of screen. 
+it sholde be controlled by pish bottons. It shuold save itself from charachter say O and try to cach character L which will give extra live.
+tje number of lives will be shown by leds.
+The game will have different levels each 15 seconds. it means that the velocity of characters O and L which are moving towards string car
+will increase( decrease delay) every 15 seconds.
+when we are done with this and still have time, we are going to programme the graphics as well so that our project comes to an advance level.
+because than we should use pixel by pixel movement.
+
+
 
 We might use if statements depending on what should happen
 
