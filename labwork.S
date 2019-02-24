@@ -20,7 +20,6 @@
 	#.global		hexasc
 	.global	delay
 	.global	time2string
-	.global enable_interrupt
 	.data
 	.align 2
 mytime:	.word 0x5957
@@ -130,10 +129,7 @@ time2string:
 	
 	
 
-enable_interrupt:
-	ei
-	jr	$ra
-	nop
+
 
 
 
